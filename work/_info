@@ -1,0 +1,297 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/LEARNING/PHI/Simulation
+Ealu
+Z0 w1701718282
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/20155/Desktop/ALU_Simulation_Final_Project
+Z6 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu.vhd
+Z7 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu.vhd
+l0
+L6
+Vc]2G9QY?nZzmV^TEk:WGP0
+!s100 iL=j_=nHZYH:?G]oWd4HT2
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1703699428
+!i10b 1
+Z10 !s108 1703699428.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu.vhd|
+Z12 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehav
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 c]2G9QY?nZzmV^TEk:WGP0
+l17
+L16
+Vz?35lgC1jeWYaj3RcKcCm1
+!s100 oXL50?Cd=C^DMFCQOjcPc0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealu_tb
+Z15 w1703684407
+R1
+R2
+R3
+R4
+R5
+Z16 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu_tb.vhd
+Z17 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu_tb.vhd
+l0
+L6
+V7m=3g3gYP5d8N@jkcQ9Ag3
+!s100 Ck7b@hC?djATiH48;>WWe0
+R8
+32
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu_tb.vhd|
+Z19 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 6 alu_tb 0 22 7m=3g3gYP5d8N@jkcQ9Ag3
+l26
+L9
+V=NMG_64gEZ`h3:Z]1g>ER2
+!s100 <KJ158oUKbmzI8oz8I8Ge0
+R8
+32
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R13
+R14
+Einstruction_memory
+Z20 w1703684510
+Z21 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z22 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/instruction_memory.vhd
+Z23 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/instruction_memory.vhd
+l0
+L6
+VkAElLSZZP0l[TYbOA;Sc;3
+!s100 ezR688>29MbagOG6NV]3Q1
+R8
+32
+R9
+!i10b 1
+R10
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/instruction_memory.vhd|
+Z25 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/instruction_memory.vhd|
+!i113 1
+R13
+R14
+Ains_behav1
+R21
+R3
+R4
+DEx4 work 18 instruction_memory 0 22 kAElLSZZP0l[TYbOA;Sc;3
+l40
+L17
+VVllW@RjX^g8_i:>8a4aj;2
+!s100 3=l7DV2a[S6`Pa:<E7gem1
+R8
+32
+R9
+!i10b 1
+R10
+R24
+R25
+!i113 1
+R13
+R14
+Epc
+Z26 w1702145395
+R21
+R3
+R4
+R5
+Z27 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/program_counter.vhd
+Z28 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/program_counter.vhd
+l0
+L5
+VdF;k?;ETo1C_0lag9<ARd1
+!s100 z7G]__<KmG@^XVL1S?8ce0
+R8
+32
+R9
+!i10b 1
+R10
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/program_counter.vhd|
+Z30 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/program_counter.vhd|
+!i113 1
+R13
+R14
+Abehav1
+R21
+R3
+R4
+DEx4 work 2 pc 0 22 dF;k?;ETo1C_0lag9<ARd1
+l15
+L12
+V5FP0odFRo7oP@[S;Hfm>A2
+!s100 CkbASSM6gKC4LLVO`2z4T1
+R8
+32
+R9
+!i10b 1
+R10
+R29
+R30
+!i113 1
+R13
+R14
+Eprocess_tb
+Z31 w1702145761
+R3
+R4
+R5
+Z32 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor_tb.vhd
+Z33 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor_tb.vhd
+l0
+L4
+Vba6g?TS?zggj9@dg@zU0n3
+!s100 9Fz<5bY7O?oPLHH:OkE?l2
+R8
+32
+R9
+!i10b 1
+R10
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor_tb.vhd|
+Z35 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor_tb.vhd|
+!i113 1
+R13
+R14
+Aprocess_tb_behav
+R3
+R4
+DEx4 work 10 process_tb 0 22 ba6g?TS?zggj9@dg@zU0n3
+l22
+L7
+VY7oc5k6GHF?86Jc<o0IYm3
+!s100 X8=oLCC]^zXP]I[_J5lEB0
+R8
+32
+R9
+!i10b 1
+R10
+R34
+R35
+!i113 1
+R13
+R14
+Eprocessor
+Z36 w1701720051
+R3
+R4
+R5
+Z37 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor.vhd
+Z38 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor.vhd
+l0
+L6
+VPm^SPVj?<T?k3fLJX<?4j2
+!s100 _6;Z?YAh2iZa<lo_ePPC02
+R8
+32
+R9
+!i10b 1
+R10
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor.vhd|
+Z40 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor.vhd|
+!i113 1
+R13
+R14
+Abehav1
+R3
+R4
+DEx4 work 9 processor 0 22 Pm^SPVj?<T?k3fLJX<?4j2
+l76
+L12
+V@7oCczjB:;dz9@7>R?zDH2
+!s100 ObR2`U>f[YL7:?=`iFa;A0
+R8
+32
+R9
+!i10b 1
+R10
+R39
+R40
+!i113 1
+R13
+R14
+Eregister_file
+Z41 w1702145432
+R21
+R3
+R4
+R5
+Z42 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/register_file.vhd
+Z43 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/register_file.vhd
+l0
+L5
+VohceZO9Xo6LOReZTf;3E02
+!s100 0LaiH<BPZTJckdzFJ@Jhd2
+R8
+32
+R9
+!i10b 1
+R10
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/register_file.vhd|
+Z45 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/register_file.vhd|
+!i113 1
+R13
+R14
+Arf_behav
+R21
+R3
+R4
+DEx4 work 13 register_file 0 22 ohceZO9Xo6LOReZTf;3E02
+l31
+L17
+VX;IEm1On3?X_D47NEOELg0
+!s100 2o0bBE_0[ARh8Pi5M=CW<3
+R8
+32
+R9
+!i10b 1
+R10
+R44
+R45
+!i113 1
+R13
+R14
