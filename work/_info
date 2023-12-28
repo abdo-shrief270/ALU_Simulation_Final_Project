@@ -15,19 +15,19 @@ Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 Z5 dC:/Users/20155/Desktop/ALU_Simulation_Final_Project
-Z6 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu.vhd
-Z7 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu.vhd
+Z6 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu.vhd
+Z7 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu.vhd
 l0
 L6
 Vc]2G9QY?nZzmV^TEk:WGP0
 !s100 iL=j_=nHZYH:?G]oWd4HT2
 Z8 OV;C;10.5b;63
 32
-Z9 !s110 1703699428
+Z9 !s110 1703756994
 !i10b 1
-Z10 !s108 1703699428.000000
-Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu.vhd|
-Z12 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu.vhd|
+Z10 !s108 1703756994.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu.vhd|
+Z12 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu.vhd|
 !i113 1
 Z13 o-work work -2002 -explicit
 Z14 tExplicit 1 CvgOpt 0
@@ -95,13 +95,13 @@ R19
 R13
 R14
 Einstruction_memory
-Z20 w1703684510
+Z20 w1703751095
 Z21 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
 R3
 R4
 R5
-Z22 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/instruction_memory.vhd
-Z23 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/instruction_memory.vhd
+Z22 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\instruction_memory.vhd
+Z23 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\instruction_memory.vhd
 l0
 L6
 VkAElLSZZP0l[TYbOA;Sc;3
@@ -111,8 +111,8 @@ R8
 R9
 !i10b 1
 R10
-Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/instruction_memory.vhd|
-Z25 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/instruction_memory.vhd|
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\instruction_memory.vhd|
+Z25 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\instruction_memory.vhd|
 !i113 1
 R13
 R14
@@ -121,10 +121,10 @@ R21
 R3
 R4
 DEx4 work 18 instruction_memory 0 22 kAElLSZZP0l[TYbOA;Sc;3
-l40
+l56
 L17
-VVllW@RjX^g8_i:>8a4aj;2
-!s100 3=l7DV2a[S6`Pa:<E7gem1
+Vonoc8Ul;B1OGO2QBl9:lX3
+!s100 =;YJnRfRiL`zJzEIh3E8Z0
 R8
 32
 R9
@@ -136,13 +136,13 @@ R25
 R13
 R14
 Epc
-Z26 w1702145395
+Z26 w1703751287
 R21
 R3
 R4
 R5
-Z27 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/program_counter.vhd
-Z28 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/program_counter.vhd
+Z27 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\program_counter.vhd
+Z28 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\program_counter.vhd
 l0
 L5
 VdF;k?;ETo1C_0lag9<ARd1
@@ -152,8 +152,8 @@ R8
 R9
 !i10b 1
 R10
-Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/program_counter.vhd|
-Z30 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/program_counter.vhd|
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\program_counter.vhd|
+Z30 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\program_counter.vhd|
 !i113 1
 R13
 R14
@@ -177,12 +177,12 @@ R30
 R13
 R14
 Eprocess_tb
-Z31 w1702145761
+Z31 w1703700283
 R3
 R4
 R5
-Z32 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor_tb.vhd
-Z33 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor_tb.vhd
+Z32 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd
+Z33 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd
 l0
 L4
 Vba6g?TS?zggj9@dg@zU0n3
@@ -192,8 +192,8 @@ R8
 R9
 !i10b 1
 R10
-Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor_tb.vhd|
-Z35 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor_tb.vhd|
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd|
+Z35 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd|
 !i113 1
 R13
 R14
@@ -220,8 +220,8 @@ Z36 w1701720051
 R3
 R4
 R5
-Z37 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor.vhd
-Z38 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor.vhd
+Z37 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd
+Z38 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd
 l0
 L6
 VPm^SPVj?<T?k3fLJX<?4j2
@@ -231,8 +231,8 @@ R8
 R9
 !i10b 1
 R10
-Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor.vhd|
-Z40 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor.vhd|
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd|
+Z40 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd|
 !i113 1
 R13
 R14
@@ -260,8 +260,8 @@ R21
 R3
 R4
 R5
-Z42 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/register_file.vhd
-Z43 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/register_file.vhd
+Z42 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd
+Z43 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd
 l0
 L5
 VohceZO9Xo6LOReZTf;3E02
@@ -271,8 +271,8 @@ R8
 R9
 !i10b 1
 R10
-Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/register_file.vhd|
-Z45 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/register_file.vhd|
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd|
+Z45 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd|
 !i113 1
 R13
 R14
@@ -280,11 +280,11 @@ Arf_behav
 R21
 R3
 R4
-DEx4 work 13 register_file 0 22 ohceZO9Xo6LOReZTf;3E02
+Z46 DEx4 work 13 register_file 0 22 ohceZO9Xo6LOReZTf;3E02
 l31
 L17
-VX;IEm1On3?X_D47NEOELg0
-!s100 2o0bBE_0[ARh8Pi5M=CW<3
+Z47 VX;IEm1On3?X_D47NEOELg0
+Z48 !s100 2o0bBE_0[ARh8Pi5M=CW<3
 R8
 32
 R9
