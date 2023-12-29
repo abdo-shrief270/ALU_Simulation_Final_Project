@@ -71,7 +71,7 @@ ARCHITECTURE behav OF Alu IS
             WHEN "0110" =>
                 f  <= A-B-1 ; 
             WHEN "0111" => 
-                f  <= (A AND B)-1 ; 
+                f  <= (A AND (NOT B))-1 ; 
             WHEN "1000" =>
                 f  <= A+(A AND B);  
             WHEN "1001" =>

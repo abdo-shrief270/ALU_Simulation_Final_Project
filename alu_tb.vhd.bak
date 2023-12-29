@@ -129,7 +129,7 @@ begin
         Sel <= "0111";
 	M <= '0';
         wait for 10 ns;
-        assert F = ((A AND B)-1) report "sel=0111 '((A AND (NOT B))-1)' failed!" severity error;
+        assert F = ((A AND (NOT B))-1) report "sel=0111 '((A AND (NOT B))-1)' failed!" severity error;
 
 	M <= '1';
         wait for 10 ns;
