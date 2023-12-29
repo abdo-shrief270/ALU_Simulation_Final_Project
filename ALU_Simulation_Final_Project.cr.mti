@@ -53,4 +53,12 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Compiling entity register_file
 -- Compiling architecture rf_behav of register_file
 
+} {} {}} C:/Users/20155/Desktop/ALU_Simulation_Final_Project/processor_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity process_tb
+-- Compiling architecture process_tb_behav of process_tb
+
 } {} {}}
