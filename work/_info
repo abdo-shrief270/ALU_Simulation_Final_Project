@@ -23,9 +23,9 @@ Vc]2G9QY?nZzmV^TEk:WGP0
 !s100 iL=j_=nHZYH:?G]oWd4HT2
 Z8 OV;C;10.5b;63
 32
-Z9 !s110 1703756994
+Z9 !s110 1703843305
 !i10b 1
-Z10 !s108 1703756994.000000
+Z10 !s108 1703843305.000000
 Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu.vhd|
 Z12 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu.vhd|
 !i113 1
@@ -58,8 +58,8 @@ R2
 R3
 R4
 R5
-Z16 8C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu_tb.vhd
-Z17 FC:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu_tb.vhd
+Z16 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu_tb.vhd
+Z17 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu_tb.vhd
 l0
 L6
 V7m=3g3gYP5d8N@jkcQ9Ag3
@@ -69,8 +69,8 @@ R8
 R9
 !i10b 1
 R10
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu_tb.vhd|
-Z19 !s107 C:/Users/20155/Desktop/ALU_Simulation_Final_Project/alu_tb.vhd|
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu_tb.vhd|
+Z19 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\alu_tb.vhd|
 !i113 1
 R13
 R14
@@ -149,11 +149,11 @@ VdF;k?;ETo1C_0lag9<ARd1
 !s100 z7G]__<KmG@^XVL1S?8ce0
 R8
 32
-R9
+Z29 !s110 1703843306
 !i10b 1
-R10
-Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\program_counter.vhd|
-Z30 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\program_counter.vhd|
+Z30 !s108 1703843306.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\program_counter.vhd|
+Z32 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\program_counter.vhd|
 !i113 1
 R13
 R14
@@ -168,32 +168,32 @@ V5FP0odFRo7oP@[S;Hfm>A2
 !s100 CkbASSM6gKC4LLVO`2z4T1
 R8
 32
-R9
-!i10b 1
-R10
 R29
+!i10b 1
 R30
+R31
+R32
 !i113 1
 R13
 R14
 Eprocess_tb
-Z31 w1703700283
+Z33 w1703843303
 R3
 R4
 R5
-Z32 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd
-Z33 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd
+Z34 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd
+Z35 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd
 l0
 L4
 Vba6g?TS?zggj9@dg@zU0n3
 !s100 9Fz<5bY7O?oPLHH:OkE?l2
 R8
 32
-R9
+R29
 !i10b 1
-R10
-Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd|
-Z35 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd|
+R30
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd|
+Z37 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor_tb.vhd|
 !i113 1
 R13
 R14
@@ -201,27 +201,27 @@ Aprocess_tb_behav
 R3
 R4
 DEx4 work 10 process_tb 0 22 ba6g?TS?zggj9@dg@zU0n3
-l22
+l21
 L7
-VY7oc5k6GHF?86Jc<o0IYm3
-!s100 X8=oLCC]^zXP]I[_J5lEB0
+VeNYFkM5<iUfzZhzSSo>5=3
+!s100 Zn_69kS0dDH[hb_F7k_g:3
 R8
 32
-R9
+R29
 !i10b 1
-R10
-R34
-R35
+R30
+R36
+R37
 !i113 1
 R13
 R14
 Eprocessor
-Z36 w1701720051
+Z38 w1703843209
 R3
 R4
 R5
-Z37 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd
-Z38 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd
+Z39 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd
+Z40 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd
 l0
 L6
 VPm^SPVj?<T?k3fLJX<?4j2
@@ -231,8 +231,8 @@ R8
 R9
 !i10b 1
 R10
-Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd|
-Z40 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd|
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd|
+Z42 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\processor.vhd|
 !i113 1
 R13
 R14
@@ -240,39 +240,39 @@ Abehav1
 R3
 R4
 DEx4 work 9 processor 0 22 Pm^SPVj?<T?k3fLJX<?4j2
-l76
+l75
 L12
-V@7oCczjB:;dz9@7>R?zDH2
-!s100 ObR2`U>f[YL7:?=`iFa;A0
+VMcYz^`86C@icTf9Ld?PO81
+!s100 [camd@HCi=0CcKJcPlDT_1
 R8
 32
 R9
 !i10b 1
 R10
-R39
-R40
+R41
+R42
 !i113 1
 R13
 R14
 Eregister_file
-Z41 w1702145432
+Z43 w1702145432
 R21
 R3
 R4
 R5
-Z42 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd
-Z43 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd
+Z44 8C:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd
+Z45 FC:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd
 l0
 L5
 VohceZO9Xo6LOReZTf;3E02
 !s100 0LaiH<BPZTJckdzFJ@Jhd2
 R8
 32
-R9
+R29
 !i10b 1
-R10
-Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd|
-Z45 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd|
+R30
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd|
+Z47 !s107 C:\Users\20155\Desktop\ALU_Simulation_Final_Project\register_file.vhd|
 !i113 1
 R13
 R14
@@ -280,18 +280,18 @@ Arf_behav
 R21
 R3
 R4
-Z46 DEx4 work 13 register_file 0 22 ohceZO9Xo6LOReZTf;3E02
+Z48 DEx4 work 13 register_file 0 22 ohceZO9Xo6LOReZTf;3E02
 l31
 L17
-Z47 VX;IEm1On3?X_D47NEOELg0
-Z48 !s100 2o0bBE_0[ARh8Pi5M=CW<3
+Z49 VX;IEm1On3?X_D47NEOELg0
+Z50 !s100 2o0bBE_0[ARh8Pi5M=CW<3
 R8
 32
-R9
+R29
 !i10b 1
-R10
-R44
-R45
+R30
+R46
+R47
 !i113 1
 R13
 R14

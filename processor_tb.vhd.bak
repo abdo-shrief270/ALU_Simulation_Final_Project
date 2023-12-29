@@ -8,6 +8,9 @@ architecture process_tb_behav of process_tb is
 
   -- Declaration of the processor component
   component processor
+    port(
+      clk : in std_logic
+    );
   end component;
 
   -- Signal declarations
@@ -19,7 +22,9 @@ architecture process_tb_behav of process_tb is
 begin
 
   -- Instantiation of the processor component
-  uut : processor;
+  uut : processor port map(
+    clk => clk
+  );
 
   -- Testbench stimulus process
   stim_proc : process

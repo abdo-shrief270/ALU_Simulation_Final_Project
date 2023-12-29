@@ -15,7 +15,6 @@ architecture process_tb_behav of process_tb is
 
   -- Signal declarations
   signal clk : std_logic := '0'; -- Clock signal initialization
-  signal F_value : std_logic_vector(7 downto 0); -- Example signal declaration
 
   constant clk_period : time := 10 ns; -- Constant for clock period
 

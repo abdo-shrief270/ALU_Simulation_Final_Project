@@ -68,6 +68,7 @@ signal F_value:      std_logic_vector(7 downto 0);
 signal A: 	     std_logic_vector(7 downto 0);
 signal B: 	     std_logic_vector(7 downto 0);
 signal Sel	  :  std_logic_vector(3 downto 0);
+signal f	  :  std_logic_vector(7 downto 0);
 
 
 
@@ -113,7 +114,7 @@ port map(
 	B=>B,
 	m=>m,
 	sel=>sel,
-	f=>F_value
+	F_value=>f
 );
 
 
